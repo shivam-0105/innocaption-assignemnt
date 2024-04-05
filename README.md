@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# InnoCaption Assignment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Assignment Link : <a href="https://pond-cymbal-221.notion.site/InnoCaption-Engineer-Summer-Intern-130fa0176c134f9e8c51b4623b417ad4" target="_blank">Details</a>
 
-## Available Scripts
+## Technical Case Study Details
+1. See a list of all purchaseable products
+   The user can see all the products on the first page. Apart from there, the user can see first 4 categories and first 5 products of each category.
+   ![Screenshot 2024-04-05 at 1 14 08 AM](https://github.com/shivam-0105/innocaption-assignemnt/assets/70219870/e2ccc064-6a5a-4e5a-a859-c349ab6fdf89)
 
-In the project directory, you can run:
+2. Add, edit, and delete items from their cart
+   2.1  Add item into the cart
+   
+   https://github.com/shivam-0105/innocaption-assignemnt/assets/70219870/1d180f44-6bde-4c84-a067-b9d9cf505373
 
-### `npm start`
+   2.2 Edit item from the cart
+   
+   https://github.com/shivam-0105/innocaption-assignemnt/assets/70219870/8e0d3a0e-f7c3-4e00-8ac0-af9a9b6d36dc
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+   2.3 Delete item from the cart
+   
+   https://github.com/shivam-0105/innocaption-assignemnt/assets/70219870/6e79814c-e215-4374-9f55-d62a1a83360b
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+4. Search for products by name or category
+   3.1 Search for products by name
+   
+   https://github.com/shivam-0105/innocaption-assignemnt/assets/70219870/e5de2b7d-6396-45d6-8d62-0ccfd7e10061
 
-### `npm test`
+   3.2 Search for products by category
+   
+   https://github.com/shivam-0105/innocaption-assignemnt/assets/70219870/75e764eb-69f7-4be1-9e83-2289fa4ef0dc
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tools and Technology Used
+<ul>
+  <li><a href="https://react.dev" target="_blank">React</a></li>
+  <li><a href="https://www.npmjs.com/package/sass" target="_blank">Sass</a></li>
+</ul>
 
-### `npm run build`
+## Setup Locally
+To get the app locally on your machine, follow the below mentioned steps
+<br/>
+Fork, then download or clone the repo.
+```bash
+git clone https://github.com/shivam-0105/innocaption-assignemnt.git
+```
+Now in the root directory, install the required backend dependencies using the following command in the terminal
+```bash
+npm install
+```
+Now for the frontend part, go to client folder and install the required dependencies
+```bash
+npm start
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Contact Me
+Mail Id : spanch13@asu.edu
+<br />
+LinkedIn : <a href="https://www.linkedin.com/in/shivampanchal0105/">Shivam Panchal</a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for spending your precious time. Have a nice day :grin:
